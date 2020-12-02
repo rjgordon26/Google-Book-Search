@@ -16,7 +16,7 @@ Email Address: Rjgordon26@gmail.com
 
 ## Screenshots
 
-![Screenshot](https://user-images.githubusercontent.com/71281777/100827636-cf840400-3422-11eb-878e-32fd4e579a43.PNG)
+![Screenshot](https://user-images.githubusercontent.com/71281777/100894290-f32a6700-3481-11eb-933f-99ac82cf5d93.PNG)
 
 
 # Getting Started with Create React App
