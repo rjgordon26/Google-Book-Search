@@ -1,3 +1,24 @@
+# Google Book Search App
+
+## Description
+
+This application let's the user search for books using the google API key. The user can save books, and delete them. They also have the ability to use the app offline.
+
+## Usage
+
+The user can search using the search bar and pull up all results they require.
+
+## Contact
+
+Github Username: rjgordon26
+LinkedIn: Raymond Gordon
+Email Address: Rjgordon26@gmail.com
+
+## Screenshots
+
+![Screenshot](https://user-images.githubusercontent.com/71281777/100827636-cf840400-3422-11eb-878e-32fd4e579a43.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
